@@ -1,0 +1,486 @@
+Name: Fist
+Name ru: Кулак
+Chat icon: :uF300:
+Server id: 0
+Available: True
+----------------------------------------
+Name: Brass Knuckles
+Name ru: Кастет
+Chat icon: :uF301:
+Server id: 1
+Available: True
+----------------------------------------
+Name: Golf Club
+Name ru: Клюшка для гольфа
+Chat icon: :uF302:
+Server id: 2
+Available: True
+----------------------------------------
+Name: Nightstick
+Name ru: Полицейская дубинка
+Chat icon: :uF303:
+Server id: 3
+Available: True
+----------------------------------------
+Name: Knife
+Name ru: Нож
+Chat icon: :uF304:
+Server id: 4
+Available: False
+----------------------------------------
+Name: Baseball Bat
+Name ru: Бейсбольная бита
+Chat icon: :uF305:
+Server id: 5
+Available: True
+----------------------------------------
+Name: Shovel
+Name ru: Лопата
+Chat icon: :uF306:
+Server id: 6
+Available: True
+----------------------------------------
+Name: Pool Cue
+Name ru: Кий
+Chat icon: :uF307:
+Server id: 7
+Available: True
+----------------------------------------
+Name: Katana
+Name ru: Катана
+Chat icon: :uF308:
+Server id: 8
+Available: True
+----------------------------------------
+Name: Chainsaw
+Name ru: Бензопила
+Chat icon: :uF309:
+Server id: 9
+Available: True
+----------------------------------------
+Name: Purple Dildo
+Name ru: Фиолетовое дилдо
+Chat icon: :uF30A:
+Server id: 10
+Available: True
+----------------------------------------
+Name: Dildo
+Name ru: Короткое дилдо
+Chat icon: :uF30B:
+Server id: 11
+Available: True
+----------------------------------------
+Name: Vibrator
+Name ru: Вибратор
+Chat icon: :uF30C:
+Server id: 12
+Available: True
+----------------------------------------
+Name: Silver Vibrator
+Name ru: Серебристое дилдо
+Chat icon: :uF30D:
+Server id: 13
+Available: True
+----------------------------------------
+Name: Flowers
+Name ru: Букет цветов
+Chat icon: :uF30E:
+Server id: 14
+Available: True
+----------------------------------------
+Name: Cane
+Name ru: Трость
+Chat icon: :uF30F:
+Server id: 15
+Available: True
+----------------------------------------
+Name: Grenade
+Name ru: Граната
+Chat icon: :uF310:
+Server id: 16
+Available: False
+----------------------------------------
+Name: Tear Gas
+Name ru: Слезоточивый газ
+Chat icon: :uF311:
+Server id: 17
+Available: True
+----------------------------------------
+Name: Molotov Cocktail
+Name ru: Коктейль молотова
+Chat icon: :uF312:
+Server id: 18
+Available: False
+----------------------------------------
+Name: Colt 45
+Name ru: Кольт 45
+Chat icon: :uF313:
+Server id: 22
+Available: True
+----------------------------------------
+Name: Silenced 9mm
+Name ru: Пистолет с глушителем
+Chat icon: :uF314:
+Server id: 23
+Available: True
+----------------------------------------
+Name: Desert Eagle
+Name ru: Desert Eagle
+Chat icon: :uF315:
+Server id: 24
+Available: True
+----------------------------------------
+Name: Shotgun
+Name ru: Дробовик
+Chat icon: :uF316:
+Server id: 25
+Available: True
+----------------------------------------
+Name: Sawnoff Shotgun
+Name ru: Обрезы
+Chat icon: :uF317:
+Server id: 26
+Available: True
+----------------------------------------
+Name: Combat Shotgun
+Name ru: Боевой дробовик
+Chat icon: :uF318:
+Server id: 27
+Available: True
+----------------------------------------
+Name: Micro Uzi
+Name ru: Узи
+Chat icon: :uF319:
+Server id: 28
+Available: True
+----------------------------------------
+Name: MP5
+Name ru: MP5
+Chat icon: :uF31A:
+Server id: 29
+Available: True
+----------------------------------------
+Name: AK-47
+Name ru: АК-47
+Chat icon: :uF31B:
+Server id: 30
+Available: True
+----------------------------------------
+Name: M4
+Name ru: M4
+Chat icon: :uF31C:
+Server id: 31
+Available: True
+----------------------------------------
+Name: Tec-9
+Name ru: Tec-9
+Chat icon: :uF31D:
+Server id: 32
+Available: True
+----------------------------------------
+Name: Country Rifle
+Name ru: Винтовка
+Chat icon: :uF31E:
+Server id: 33
+Available: True
+----------------------------------------
+Name: Sniper Rifle
+Name ru: Снайперская винтовка
+Chat icon: :uF31F:
+Server id: 34
+Available: True
+----------------------------------------
+Name: RPG
+Name ru: РПГ
+Chat icon: :uF320:
+Server id: 35
+Available: False
+----------------------------------------
+Name: HS Rocket
+Name ru: Базука
+Chat icon: :uF321:
+Server id: 36
+Available: False
+----------------------------------------
+Name: Flamethrower
+Name ru: Огнемёт
+Chat icon: :uF322:
+Server id: 37
+Available: False
+----------------------------------------
+Name: Minigun
+Name ru: Миниган
+Chat icon: :uF323:
+Server id: 38
+Available: True
+----------------------------------------
+Name: Satchel Charge
+Name ru: Ранцевый заряд
+Chat icon: :uF324:
+Server id: 39
+Available: False
+----------------------------------------
+Name: Detonator
+Name ru: Пульт с кнопкой
+Chat icon: :uF325:
+Server id: 40
+Available: True
+----------------------------------------
+Name: Spraycan
+Name ru: Баллончик с краской
+Chat icon: :uF326:
+Server id: 41
+Available: True
+----------------------------------------
+Name: Fire Extinguisher
+Name ru: Огнетушитель
+Chat icon: :uF327:
+Server id: 42
+Available: True
+----------------------------------------
+Name: Camera
+Name ru: Фотокамера
+Chat icon: :uF328:
+Server id: 43
+Available: True
+----------------------------------------
+Name: Night Vis Goggles
+Name ru: Очки ночного видения
+Chat icon: :uF329:
+Server id: 44
+Available: False
+----------------------------------------
+Name: Thermal Goggles
+Name ru: Тепловизор
+Chat icon: :uF329:
+Server id: 45
+Available: False
+----------------------------------------
+Name: Parachute
+Name ru: Парашют
+Chat icon: :uF32A:
+Server id: 46
+Available: True
+----------------------------------------
+Name: Silver Deagle
+Name ru: Серебряный дигл
+Chat icon: :uF32B:
+Server id: 71
+Available: True
+----------------------------------------
+Name: Gold Deagle
+Name ru: Золотой дигл
+Chat icon: :uF32B:
+Server id: 72
+Available: True
+----------------------------------------
+Name: Glock Gradient
+Name ru: Глок «Градиент»
+Chat icon: None
+Server id: 73
+Available: True
+----------------------------------------
+Name: Deagle Flame
+Name ru: Дигл «Пламя»
+Chat icon: :uF315:
+Server id: 74
+Available: True
+----------------------------------------
+Name: Colt Python Royal
+Name ru: Кольт «Королевский»
+Chat icon: :uF32C:
+Server id: 75
+Available: True
+----------------------------------------
+Name: Colt Python Silver
+Name ru: Кольт «Серебряный»
+Chat icon: :uF32C:
+Server id: 76
+Available: True
+----------------------------------------
+Name: AK47 Roses
+Name ru: АК-47 «Розы»
+Chat icon: :uF31B:
+Server id: 77
+Available: True
+----------------------------------------
+Name: AK47 Gold
+Name ru: АК-47 «Золотой»
+Chat icon: :uF31B:
+Server id: 78
+Available: True
+----------------------------------------
+Name: M249 Graffiti
+Name ru: M249 «Граффити»
+Chat icon: None
+Server id: 79
+Available: True
+----------------------------------------
+Name: Saiga Gold
+Name ru: Сайга «Золото»
+Chat icon: None
+Server id: 80
+Available: True
+----------------------------------------
+Name: PPSh Standart
+Name ru: ППШ
+Chat icon: :uF32D:
+Server id: 81
+Available: True
+----------------------------------------
+Name: M249 Standart
+Name ru: M249
+Chat icon: None
+Server id: 82
+Available: True
+----------------------------------------
+Name: Scorpion Standart
+Name ru: Скорпион
+Chat icon: :uF32E:
+Server id: 83
+Available: True
+----------------------------------------
+Name: AKS74 Camo 1
+Name ru: АКС-74 «Камуфляжный»
+Chat icon: :uF31B:
+Server id: 84
+Available: True
+----------------------------------------
+Name: AK47 Camo 1
+Name ru: АК-47 «Камуфляжный»
+Chat icon: :uF31B:
+Server id: 85
+Available: True
+----------------------------------------
+Name: Shotgun Rebecca
+Name ru: Дробовик Ребекки
+Chat icon: :uF32F:
+Server id: 86
+Available: True
+----------------------------------------
+Name: Doomgun
+Name ru: Doomgun
+Chat icon: :uF32F:
+Server id: 87
+Available: True
+----------------------------------------
+Available: True
+Name: Ice Sword
+Name ru: Ледяной меч
+Chat icon: :uF330:
+Server id: 88
+----------------------------------------
+Available: True
+Name: Portal Gun
+Name ru: Портальная пушка
+Chat icon: :uF331:
+Server id: 89
+----------------------------------------
+Available: True
+Name: Stun Grenade
+Name ru: Оглушающая граната
+Chat icon: :uF33A:
+Server id: 90
+----------------------------------------
+Available: True
+Name: Flash Grenade
+Name ru: Ослепляющая граната
+Chat icon: :uF33A:
+Server id: 91
+----------------------------------------
+Available: True
+Name: McMillan TAC-50
+Name ru: McMillan TAC-50
+Chat icon: None
+Server id: 92
+----------------------------------------
+Available: True
+Name: Taser Gun
+Name ru: Тайзер
+Chat icon: :uF332:
+Server id: 93
+----------------------------------------
+Available: True
+Name: Snowgun
+Name ru: Снежная пушка
+Chat icon: :uF338:
+Server id: 94
+----------------------------------------
+Available: True
+Name: Pixel Blaster
+Name ru: Пиксельный бластер
+Chat icon: :uF339:
+Server id: 95
+----------------------------------------
+Available: True
+Name: Golden M4
+Name ru: Золотая M4
+Chat icon: :uF31C:
+Server id: 96
+----------------------------------------
+Available: True
+Name: Bandit Shotgun
+Name ru: Бандитский дробовик
+Chat icon: :uF318:
+Server id: 97
+----------------------------------------
+Available: True
+Name: UZI Graffiti
+Name ru: Узи «Граффити»
+Chat icon: :uF319:
+Server id: 98
+----------------------------------------
+Available: True
+Name: Golden tire iron
+Name ru: Золотая монтировка
+Chat icon: :uF336:
+Server id: 99
+----------------------------------------
+Available: True
+Name: Compton Baseball Bat
+Name ru: Бейсбольная бита Compton
+Chat icon: :uF337:
+Server id: 100
+----------------------------------------
+Available: True
+Name: Sci-Fi Deagle
+Name ru: Sci-Fi Deagle
+Chat icon: :uF315:
+Server id: 101
+----------------------------------------
+Available: True
+Name: Sci-Fi AK-47
+Name ru: Sci-Fi AK-47
+Chat icon: :uF31B:
+Server id: 102
+----------------------------------------
+Available: True
+Name: Sci-Fi Shotgun
+Name ru: Sci-Fi Дробовик
+Chat icon: :uF316:
+Server id: 103
+----------------------------------------
+Available: True
+Name: Sci-Fi Knife
+Name ru: Sci-Fi Нож
+Chat icon: :uF304:
+Server id: 104
+----------------------------------------
+Available: True
+Name: Scanner
+Name ru: Сканер
+Chat icon: :uf340:
+Server id: 105
+----------------------------------------
+Available: True
+Name: Golden Knife
+Name ru: Золотой нож
+Chat icon: :uf33f:
+Server id: 106
+----------------------------------------
+Available: True
+Name: Katana Nir
+Name ru: Катана Нир
+Chat icon: :uf341:
+Server id: 107
+----------------------------------------
